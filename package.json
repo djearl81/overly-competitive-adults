@@ -1,0 +1,24 @@
+{
+  "name": "overly-competitive-adults",
+  "version": "1.0.0",
+  "description": "Front End for OCA website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djearl81/overly-competitive-adults.git"
+  },
+  "keywords": [
+    "Vue"
+  ],
+  "author": "Adam Ratkewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djearl81/overly-competitive-adults/issues"
+  },
+  "homepage": "https://github.com/djearl81/overly-competitive-adults#readme",
+  "dependencies": {
+  }
+}
